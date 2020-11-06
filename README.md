@@ -5,7 +5,10 @@
 兼职赚钱：学习萝卜项目，开始兼职赚钱，投入少，风险小，收益大！
 代找资料：若你又需要的资料，自己找不到的，萝卜头会员会代为您查找；
 知识分享：加入会员，萝卜资料库对你开放！
-官方网址 [萝卜头](https://www.luobotou.net)
+
+
+永贵网址 [萝卜头](https://luobotounet.github.io/luobotou.github.io/)
+
 
 ### 萝卜项目
 
@@ -38,3 +41,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### 网赚项目
 
 [项目目录](https://luobotou.net). 
+
+### 链接
+相关网址 [萝卜头](https://www.luobotou.net)
+相关网址 [萝卜头](https://www.zjcx.top)
