@@ -1,37 +1,40 @@
 ## Welcome to 萝卜头分享中心
 
-You can use the [editor on GitHub](https://github.com/luobotounet/luobotou.github.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+还在为找学习资料发愁吗？   还在为兼职发愁吗？  还在为没有好项目发愁吗？  还在担心被套路发愁吗？
+萝卜头蓝海店群，以蓝海店群项目运营为核心，打造了海量网络最新资源项目分享中心，涉及电商运营、亲子教育、知识分享、考试晋升、网赚项目等最新板块。
+兼职赚钱：学习萝卜项目，开始兼职赚钱，投入少，风险小，收益大！
+代找资料：若你又需要的资料，自己找不到的，萝卜头会员会代为您查找；
+知识分享：加入会员，萝卜资料库对你开放！
+官方网址 [萝卜头](https://www.luobotou.net)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 萝卜项目
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 萝卜分享项目
+-知识分享库会员
+-化工项目
+-道闸项目
+-细胞项目
 
+[项目链接](https://www.luobotou.net)
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 知识分享库
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luobotounet/luobotou.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your
+[项目目录](https://luobotou.net). 
+### 亲子教育库
 
-### Support or Contact
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]
+[项目目录](https://luobotou.net). 
+### 职称考试
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]
+[项目目录](https://luobotou.net). 
+
+
+### 网赚项目
+
+[项目目录](https://luobotou.net). 
